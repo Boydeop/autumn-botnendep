@@ -1,0 +1,1 @@
+worker: python autumn_bot.py
